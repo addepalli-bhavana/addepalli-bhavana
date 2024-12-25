@@ -5,7 +5,6 @@
 
 
 ## 💫About Me:
-- 🎓  I am a recently graduated CS student who loves to code.</br>
 - 😃  I am a self motivated individual who likes to explore new things and a quick learner too.</br>
 - 💻  I am currently working on to become a Full Stack Developer.
 
